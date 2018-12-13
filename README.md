@@ -1,4 +1,8 @@
-# blockchain-graph-analysis
+# Security Analysis of Bitcoin Transactions through Statistical Graph Annotation
+
+Money transaction using bitcoin is getting prevalent these days due to its government-free, secure, decentralized and open-sourced
+design. It has been exploited for money laundering. However, it is still possible to detect some trail by analysing the structure of the transaction network. This project aims to construct a user transaction flow graph of bitcoins and analyze the security and networking properties. By developing basic heuristics, we bundled the public keys of the users from the transaction graph into the user bitcoin flow graph. In a case study of the Silk Road arrest, we demonstrated how coin-mixing trails could be discovered using the user flow graph.
+
 ## Introduction
 This work consists of four steps. The first three steps are data preprocessing and the fourth step is visualization and graph analysis.
 ### 1. Blockchain data parsing
