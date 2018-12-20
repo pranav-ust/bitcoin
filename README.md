@@ -91,4 +91,4 @@ Graph analysis methods are outlined in `User Graph Analysis.ipynb`
 
 ## Report
 
-**Report for this project can be seen [here](https://github.com/pranav-ust/bitcoin/blob/master/Security%20Analysis%20of%20Bitcoin%20Transactions%20through%0AStatistical%20Graph%20Annotation.pdf)**. Have a read on our analysis of some case studies and famous bitcoin frauds.
+**Report for this project can be seen [here](https://github.com/pranav-ust/bitcoin/blob/master/Security%20Analysis%20of%20Bitcoin%20Transactions%20through%20Statistical%20Graph%20Annotation.pdf)**. Have a read on our analysis of some case studies and famous bitcoin frauds.
