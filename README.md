@@ -82,3 +82,13 @@ Run in terminal:
 ```
 python ugraph.py direc
 ```
+
+Once you get the user graph, you can use a variety of graph analysis methods.
+
+The sample graph is in `sampleusergraph.txt`.
+
+Graph analysis methods are outlined in `User Graph Analysis.ipynb`
+
+## Report
+
+**Report for this project can be seen [here](https://github.com/pranav-ust/bitcoin/blob/master/Security%20Analysis%20of%20Bitcoin%20Transactions%20through%0AStatistical%20Graph%20Annotation.pdf)**. Have a read on our analysis of some case studies and famous bitcoin frauds.
